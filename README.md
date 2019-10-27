@@ -1,4 +1,2 @@
 # eCommerce
-        eCommerce Android App
-    
-      Still working on this !
+                A delivery based app not maintained by any company rather a mini project made to upskill my android coding. This app is not yet completed but the design for now has changed from what it was meant to be. It is no more an eCommerce app rather a delivery service app , where user is given choice to get any item at a subsidised cost but the items aren't available in the store like Amazon and all. Rather its like the Ecom express but the ordering is done not from the Retail App but it is done from the delivery app only. Full demonstration of the app will be shown in a video, wait till the app is somewhat completed.
